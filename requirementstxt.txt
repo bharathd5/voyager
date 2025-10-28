@@ -8,3 +8,4 @@ scikit-learn
 ripser
 umap-learn
 phate
+torch==2.1.0
