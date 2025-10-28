@@ -1,0 +1,12 @@
+streamlit==1.50.0
+torch==2.2.0+cpu
+torchvision==0.17.0+cpu
+torchaudio==2.2.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy
+pandas
+matplotlib
+plotly
+scikit-learn
+opencv-python-headless
+Pillow
